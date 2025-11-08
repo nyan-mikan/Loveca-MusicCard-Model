@@ -8,6 +8,7 @@ It supports direct image input and top-K prediction display for fast recognition
 | LL-PR-004-PR | 愛♡スクリ～ム！ |
 | PL!-bp3-019-L | 僕らのLIVE 君とのLIFE |
 | PL!-bp3-020-L | Snow halation |
+| PL!-bp3-020-L＋ | Snow halation |
 | PL!-bp3-021-L | 愛してるばんざーい! |
 | PL!-bp3-022-L | ユメノトビラ |
 | PL!-bp3-023-L | ミはμ'sicのミ |
@@ -17,6 +18,7 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!-pb1-028-L | WAO-WAO Powerful day! |
 | PL!-pb1-029-L | 知らないLove＊教えてLove |
 | PL!-pb1-030-L | Cutie Panther |
+| PL!-pb1-031-L | 輝夜の城で踊りたい |
 | PL!-pb1-032-L | SENTIMENTAL StepS |
 | PL!-pb1-033-L | KiRa-KiRa Sensation! |
 | PL!-sd1-019-SD | START:DASH!! |
@@ -75,7 +77,9 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!S-pb1-020-L | トリコリコPLEASE!! |
 | PL!S-pb1-021-L | Strawberry Trapper |
 | PL!S-pb1-022-L | 逃走迷走メビウスループ |
+| PL!S-pb1-022-L＋ | 逃走迷走メビウスループ |
 | PL!S-pb1-023-L | Next SPARKLING!! |
+| PL!S-pb1-023-L＋ | Next SPARKLING!! |
 | PL!S-pb1-024-L | 僕らの走ってきた道は・・・ |
 | PL!S-PR-022-PR | HAPPY PARTY TRAIN |
 | PL!S-PR-023-PR | 恋になりたいAQUARIUM |
@@ -83,6 +87,7 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!SP-bp1-023-L | START!! True dreams |
 | PL!SP-bp1-024-L | Tiny Stars |
 | PL!SP-bp1-025-L | Starlight Prologue |
+| PL!SP-bp1-025-L＋ | Starlight Prologue |
 | PL!SP-bp1-026-L | 未来予報ハレルヤ！ |
 | PL!SP-bp1-027-L | Sing！Shine！Smile！ |
 | PL!SP-bp2-023-L | Go!! リスタート |
@@ -94,6 +99,7 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!SP-pb1-024-L | ニュートラル |
 | PL!SP-pb1-025-L | Jellyfish |
 | PL!SP-pb1-026-L | Jump Into the New World |
+| PL!SP-pb1-026-L＋ | Jump Into the New World |
 | PL!SP-sd1-023-SD | WE WILL!! |
 | PL!SP-sd1-024-SD | シェキラ☆☆☆ |
 | PL!SP-sd1-025-SD | 未来は風のように |
