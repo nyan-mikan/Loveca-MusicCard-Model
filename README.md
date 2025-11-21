@@ -15,6 +15,14 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!-bp3-024-L | 夏色えがおで1,2,Jump! |
 | PL!-bp3-025-L | タカラモノズ |
 | PL!-bp3-026-L | Oh,Love&Peace! |
+| PL!-bp4-019-L | Angelic Angel |
+| PL!-bp4-020-L | Love wing bell |
+| PL!-bp4-021-L | ?←HEARTBEAT |
+| PL!-bp4-022-L | No brand girls |
+| PL!-bp4-023-L | もぎゅっと"love"で接近中！ |
+| PL!-bp4-024-L | 小夜啼鳥恋詩 |
+| PL!-bp4-025-L | 微熱からMystery |
+| PL!-bp4-026-L | ダイヤモンドプリンセスの憂鬱 |
 | PL!-pb1-028-L | WAO-WAO Powerful day! |
 | PL!-pb1-029-L | 知らないLove＊教えてLove |
 | PL!-pb1-030-L | Cutie Panther |
@@ -54,6 +62,14 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!N-bp3-030-L | Love U my friends |
 | PL!N-bp3-031-L | MONSTER GIRLS |
 | PL!N-bp3-032-L | THE SECRET NiGHT |
+| PL!N-bp4-025-L | VIVID WORLD |
+| PL!N-bp4-026-L | DIVE! |
+| PL!N-bp4-027-L | EMOTION |
+| PL!N-bp4-028-L | stars we chase |
+| PL!N-bp4-029-L | Rise Up High! |
+| PL!N-bp4-030-L | Daydream Mermaid |
+| PL!N-bp4-031-L | NEO SKY, NEO MAP! |
+| PL!N-bp4-032-L | Blue! |
 | PL!N-sd1-025-SD | Colorful Dreams! Colorful Smiles! |
 | PL!N-sd1-026-SD | 夢が僕らの太陽さ |
 | PL!N-sd1-027-SD | Just Believe!!! |
@@ -95,6 +111,14 @@ It supports direct image input and top-K prediction display for fast recognition
 | PL!SP-bp2-025-L | Bubble Rise |
 | PL!SP-bp2-026-L | 笑顔のPromise |
 | PL!SP-bp2-027-L | UNIVERSE!! |
+| PL!SP-bp4-023-L | Dazzling Game |
+| PL!SP-bp4-024-L | ノンフィクション!! |
+| PL!SP-bp4-025-L | Special Color |
+| PL!SP-bp4-026-L | Wish Song |
+| PL!SP-bp4-027-L | Chance Day, Chance Way! |
+| PL!SP-bp4-028-L | DAISUKI FULL POWER |
+| PL!SP-bp4-029-L | 追いかける夢の先で |
+| PL!SP-bp4-030-L | Second Sparkle |
 | PL!SP-pb1-023-L | ディストーション |
 | PL!SP-pb1-024-L | ニュートラル |
 | PL!SP-pb1-025-L | Jellyfish |
