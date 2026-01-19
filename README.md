@@ -4,7 +4,7 @@ It supports direct image input and top-K prediction display for fast recognition
 
 ## Supported cards
 | Card ID | Card Name |
-| :--- | :--- |
+|--------|-----------|
 | LL-PR-004-PR | 愛♡スクリ～ム！ |
 | PL!-bp3-019-L | 僕らのLIVE 君とのLIFE |
 | PL!-bp3-020-L | Snow halation |
